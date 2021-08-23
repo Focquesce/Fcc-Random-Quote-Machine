@@ -1,0 +1,7 @@
+* {
+  text-align: center;
+}
+
+body {
+  background-image: radial-gradient(circle, fuchsia 0%, #7852a9 1.25%, slateblue 30%, #0080ff 50%, cyan 100%);
+}
